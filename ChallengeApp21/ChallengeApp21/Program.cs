@@ -16,5 +16,5 @@ else if (myAge < 18 && myGender == "mężczyzna")
 }
 else
 {
-    Console.WriteLine("Dane nie pokrywają się z treścią zadania :/");
+    Console.WriteLine("Dane nie pokrywają się z treścią zadania");
 }
